@@ -1,0 +1,12 @@
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\Excel.dll
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\bin\Debug\Excel.pdb
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-excelreader\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-excelreader\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-excelreader\ExcelParser\obj\Debug\ExcelParser.pdb
